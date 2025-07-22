@@ -1,7 +1,7 @@
 <!-- Headers -->
 <h1 align="center">Hi, I'm Eslam Ahmed <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
 
-<h3 align="center">A full-stack web developer with hands-on experience in building robust, scalable, and secure applications using NestJS, Angular, and PostgreSQL.</h3>
+<h3 align="center">A full-stack web developer with hands-on experience in building robust, scalable, and secure applications using Node.Js, NestJS, ReactJs, Angular, and PostgreSQL.</h3>
 <h3 align="center">I enjoy solving real-world problems, building APIs, designing clean UIs, and working on end-to-end applications.</h3>
 <h3 align="center">I’ve worked on systems including exam platforms, real-time chat apps, pharmacy marketplace solutions, and more 🚀</h3>
 
@@ -21,9 +21,6 @@
   </a>
   <a href="https://www.linkedin.com/in/eslam-ahmed-a74764207/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/eslamahmed-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
   </a>
 </div>
 
@@ -74,24 +71,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
-
-<!-- Others -->
-<div align="center">
-  <img src="https://seeklogo.com/images/S/stripe-logo-256AE0FE88-seeklogo.com.png" height="40" alt="stripe logo" />
-  <img width="12" />
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1647985692/brand/Cloudinary_Horizontal_Logo_Black_HSVJfhG.svg" height="40" alt="cloudinary logo" />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="40" alt="socketio logo" />
-</div>
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamahmed-dev&show_icons=true&theme=dracula" alt="eslam's github stats" />
-</p>
 
 <!-- Profile Views -->
 <p align="center">
